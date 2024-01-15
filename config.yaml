@@ -1,0 +1,12 @@
+app:
+  port: 8080
+
+db: 
+  user: postgres
+  password: a1cGa3B5B-DEcFg564d*cD-DddAbe*2B
+  host: monorail.proxy.rlwy.net
+  port: 33341
+  name: railway 
+  sslmode: disable 
+  tz: Asia/Shanghai
+
