@@ -1,1 +1,1 @@
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.sennder.com%2Ftech%2Fdesigning-microservices-components-using-hexagonal-architecture&psig=AOvVaw3ItZXzOzvaZwiakpuJLq8S&ust=1705481038286000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCNistZPC4YMDFQAAAAAdAAAAABAD" />
+<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.sennder.com%2Ftech%2Fdesigning-microservices-components-using-hexagonal-architecture&psig=AOvVaw3ItZXzOzvaZwiakpuJLq8S&ust=1705481038286000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCNistZPC4YMDFQAAAAAdAAAAABAD" >
